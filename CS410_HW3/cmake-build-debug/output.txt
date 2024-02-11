@@ -1,0 +1,18 @@
+q1 q2 q3 q5 q5 q2 q2 qA (route taken)
+Accepted
+
+q1 q2 q3 q4 qR (route taken)
+Rejected
+
+q1 q2 qA (route taken)
+Accepted
+
+q1 qR (route taken)
+Rejected
+
+q1 q2 q3 q4 q3 q5 q5 q5 q5 q2 q2 q3 q3 q5 q5 q5 q5 q2 q2 q2 q2 qA (route taken)
+Accepted
+
+q1 q2 q3 q4 q3 q4 q3 q5 q5 q5 q5 q5 q5 q2 q2 q3 q3 q4 q4 qR (route taken)
+Rejected
+
